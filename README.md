@@ -185,7 +185,7 @@ The dashboard focuses on:
 * Payment information
 * Key analytical insights
 
-![Tutoring Management Dashboard](dashboard/dashboard/dashboard.png)
+![Tutoring Management Dashboard](./dashboard/dashboard.png)
 
 ---
 
