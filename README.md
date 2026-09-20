@@ -147,9 +147,7 @@ This highlights the importance of planning availability and workload around high
 
 ### 4. Payment behavior
 
-The payment analysis identified instances of delayed and partial payments.
-
-The recorded missing amounts were subsequently recovered, making payment tracking useful not only for identifying outstanding amounts but also for understanding payment behavior over time.
+The payment analysis identified instances of delayed and partial payments. Some missing amounts were subsequently recovered, while payment tracking also highlighted outstanding differences during the analyzed period.
 
 ### 5. Operational efficiency
 
@@ -253,11 +251,8 @@ private-tutoring-management-analytics/
 ├── dashboard/
 │   └── dashboard.png
 │
-├── analysis/
-│   └── analysis.png
-│
-└── docs/
-    └── project-overview.md
+└── analysis/
+    └── analysis.png
 ```
 
 ---
