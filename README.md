@@ -187,6 +187,12 @@ The dashboard focuses on:
 
 ![Tutoring Management Dashboard](./dashboard/dashboard.png)
 
+## 🔍 Analysis
+
+The analysis section provides a detailed view of the operational data collected during the project, covering monthly activity, student workload, revenue, payment behavior and available performance data.
+
+![Tutoring Management Analysis](analysis/analysis.png)
+
 ---
 
 ## 🛠️ Tools & Technologies
